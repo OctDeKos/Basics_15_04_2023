@@ -1,7 +1,31 @@
 package org.example;
 
-public class Loader {
-    public static void main(String[] args) {
+
+    public class Loader {
+        public static void main(String[] args) {
+            int a = 10;
+            int b = 25;
+            int c = 0;
+
+            c = a + b;
+            System.out.println(c);
+            c += a;
+            System.out.println(c);
+            c -= a ;
+            System.out.println(c);
+            c *= a ;
+            System.out.println(c);
+            c /= a ;
+            System.out.println(c);
+            c %= 13 ;
+            System.out.println(c);
+        }
+    }
+
+
+
+
+    /*public static void main(String[] args) {
         int a = 190;
         int b = 245;
         boolean result = true;
@@ -14,4 +38,4 @@ public class Loader {
         System.out.println(result);
         System.out.println(bool);
     }
-}
+}*/
