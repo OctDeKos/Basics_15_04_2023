@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5532f97-88d7-4ab8-9f81-b21160ec39db" name="Changes" comment="17/04/2023">
+    <list default="true" id="d5532f97-88d7-4ab8-9f81-b21160ec39db" name="Changes" comment="03/05/2023  - Calc (ready)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,20 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loader">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Calculator" />
+      <module name="Basics_15_04_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loader (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loader" />
       <module name="Basics_15_04_2023" />
@@ -75,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Loader" />
         <item itemvalue="Application.Loader (1)" />
         <item itemvalue="Application.Main" />
@@ -118,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681756034856</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="03/05/2023  - Calc">
+      <created>1683132609091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683132609092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="03/05/2023  - Calc (ready)">
+      <created>1683132744058</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683132744058</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +164,8 @@
     <MESSAGE value="First" />
     <MESSAGE value="16/04/2023" />
     <MESSAGE value="17/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="17/04/2023" />
+    <MESSAGE value="03/05/2023  - Calc" />
+    <MESSAGE value="03/05/2023  - Calc (ready)" />
+    <option name="LAST_COMMIT_MESSAGE" value="03/05/2023  - Calc (ready)" />
   </component>
 </project>
