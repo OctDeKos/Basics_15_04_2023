@@ -1,26 +1,37 @@
-package org.example;
+package org.example;//public class Loader {
+//
+//    public static void main(String[] args) {
+//        int a = 10;
+//        int b = 25;
+//        int c = 0;
+//        System.out.println(a + b * 10 >= 255 && 4 << 1 <= 14) ;
+//    }
+//}
+
+//public class Loader {
+//    public static void main(String[] args) {
+//        int sum = 10;
+//        for (int i = 10; i < 100; i = i + 10) {
+//            sum += i;
+//        }
+//        System.out.println(sum);
+//    }
+//}
+public class Loader {
+    public static void main(String[] args) {
+        int i = 45;
+        while (i < 350) {
+            //Здесь должен быть код {
+            i++;
 
 
-    public class Loader {
-        public static void main(String[] args) {
-            int a = 10;
-            int b = 25;
-            int c = 0;
-
-            c = a + b;
-            System.out.println(c);
-            c += a;
-            System.out.println(c);
-            c -= a ;
-            System.out.println(c);
-            c *= a ;
-            System.out.println(c);
-            c /= a ;
-            System.out.println(c);
-            c %= 13 ;
-            System.out.println(c);
+            System.out.println("Value i = " + i);
         }
+
+
     }
+}
+
 
 
 
